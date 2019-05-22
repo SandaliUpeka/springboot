@@ -1,0 +1,5 @@
+com\paf\ecommerce\dao\ProductDAO.class
+com\paf\ecommerce\repository\ProductRepository.class
+com\paf\ecommerce\ProductApplication.class
+com\paf\ecommerce\controller\ProductController.class
+com\paf\ecommerce\model\Product.class
